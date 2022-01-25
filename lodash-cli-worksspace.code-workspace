@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\lodash-npm"
+		},
+		{
+			"path": "node_modules\\lodash"
+		}
+	],
+	"settings": {}
+}
